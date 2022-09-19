@@ -26,22 +26,22 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
+global.namabot = 'nodejs'
 global.namaowner = 'GuaAbuzz'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6283181341902']
+global.premium = ['6283181341902']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
 global.telkomsel = ['6282171978174']
 global.xl = ['-']
 global.indosat = ['-']
-global.tri = ['6289636827082']
+global.tri = ['6283181341902']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
+global.gopay = ['6283181341902']
 global.dana = ['6289636827082']
 global.ovo = ['-']
 global.saweria = ['https://saweria.co/GuaAbuzz']
